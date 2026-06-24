@@ -24,6 +24,8 @@ You might have a point, but there are some shortcomings. 😅
 
 **Automatic Startup:** Depending on the user’s preference (which is also my recommendation), the app can start automatically in the background without putting any strain on your computer—you might not even notice the difference.
 
+**Listening data collection:** Boomusic collects data such as how many minutes you listened to each song and how many times you listened to them. There’s no specific reason for this; if users are curious, they can view this information there.
+
 **Theme customization:** We offer the ability to fully customize the app’s theme.
 
 # TR - TÜRKÇE
@@ -50,3 +52,5 @@ Biraz haklı da sayılsanız eksikler var.😅
 **Kendiliğinden başlatma:** Kullanıcı isteğine bağlı( ki benim de önerimdir.) uygulama kendini arka planda başlatabilir ve bilgisayarı hiç yormaz, belki farkı hissetmeyebilirsiniz bile.
 
 **Tema özelleştirme:** Uygulama temasını baştan sona düzeltebilme imkanı sunuyoruz.
+
+**Dinleme verisi toplama:** Boomusic dinlediğiniz şarkıları kaç dakika ve kaç kere dinlediğiniz gibi verileri toplar. Belli bir sebebi yok, kullanıcı merak ederse oradan görebilir.

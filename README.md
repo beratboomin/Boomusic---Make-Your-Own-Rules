@@ -1,5 +1,5 @@
 # Boomusic The Music Player
-A music player programmed entirely in Vibe Coding. Drag and drop your downloaded audio file into Boomusic and start listening without using any data!
+A music player programmed entirely in Vibe Coding. Drag and drop your downloaded audio file into Boomusic and **start listening without using any data!**
 
 # EN - ENGLİSH
 # Introduction
@@ -11,17 +11,17 @@ While I was bored on my computer, I felt the urge to play a song—but this wasn
 # What Sets Us Apart?
 It’s clear that what sets us apart is that we don’t require an internet connection, but you might be wondering:
 
-“Why would I use this when there’s a default audio player?”
+**“Why would I use this when there’s a default audio player?”**
 
 You might have a point, but there are some shortcomings. 😅
 
-My promise to you is that you’ll be able to play the OSTs (Official Soundtracks) you want without overloading your computer. Plus, we offer virtually everything that popular music players charge you for—all open-source and free!
+**My promise to you is that you’ll be able to play the OSTs (Official Soundtracks) you want without overloading your computer. Plus, we offer virtually everything that popular music players charge you for—all open-source and free!**
 
 # Features
-Playlist Feature: You can create as many playlists as you want and add as many songs as you want!
-Smart Shuffle: Our shuffle algorithm ensures that when you listen to a song in a playlist, the same song won’t play over and over again. Once all the songs in the playlist have been played, the algorithm resets.
-Automatic Startup: Depending on the user’s preference (which is also my recommendation), the app can start automatically in the background without putting any strain on your computer—you might not even notice the difference.
-Theme customization: We offer the ability to fully customize the app’s theme.
+**Playlist Feature:** You can create as many playlists as you want and add as many songs as you want!
+**Smart Shuffle:** Our shuffle algorithm ensures that when you listen to a song in a playlist, the same song won’t play over and over again. Once all the songs in the playlist have been played, the algorithm resets.
+**Automatic Startup:** Depending on the user’s preference (which is also my recommendation), the app can start automatically in the background without putting any strain on your computer—you might not even notice the difference.
+**Theme customization:** We offer the ability to fully customize the app’s theme.
 
 # TR - TÜRKÇE
 # Tanıtım
@@ -33,14 +33,14 @@ bilgisayarda canım sıkılırken şarkı açma isteği uyandı ancak bu normal 
 # Farkımız Ne?
 Çok belli ki farkımız internete ihtiyaç duyulmadığı fakat akıllara şu soru gelebilir:
 
-"Varsayılan ses oynatıcı varken neden bunu kullanayım ki?"
+**"Varsayılan ses oynatıcı varken neden bunu kullanayım ki?"**
 
 Biraz haklı da sayılsanız eksikler var.😅
 
-Benim size vaadim size istediğiniz OST'leri (Offical Soundtrack) bilgisayarınıza yük bindirmeden çalıştırmak. Ayrıca biz popüler müzik oynatıcılarının size parayla sunduğu hemen hemen herşeyi hem açık kaynak hemde parasız sunuyoruz!
+**Benim size vaadim size istediğiniz OST'leri (Offical Soundtrack) bilgisayarınıza yük bindirmeden çalıştırmak. Ayrıca biz popüler müzik oynatıcılarının size parayla sunduğu hemen hemen herşeyi hem açık kaynak hemde parasız sunuyoruz!**
 
 # Özellikler
-Playlist Özelliği: İstediğiniz kadar playlist oluşturabilir ve istediğiniz kadar şarkı ekleyebilirsiniz!
-Akıllı karışık çalma: Bizim karışık çalma algoritmamız bir playlistteki şarkıyı dinlediğinizde aynı şarkı tekrar tekrar çalmaz. Playlistteki şarkıların hepsi dinlendiği zaman algoritma sıfırlanır.
-Kendiliğinden başlatma: Kullanıcı isteğine bağlı( ki benim de önerimdir.) uygulama kendini arka planda başlatabilir ve bilgisayarı hiç yormaz, belki farkı hissetmeyebilirsiniz bile.
-Tema özelleştirme: Uygulama temasını baştan sona düzeltebilme imkanı sunuyoruz.
+**Playlist Özelliği:** İstediğiniz kadar playlist oluşturabilir ve istediğiniz kadar şarkı ekleyebilirsiniz!
+**Akıllı karışık çalma:** Bizim karışık çalma algoritmamız bir playlistteki şarkıyı dinlediğinizde aynı şarkı tekrar tekrar çalmaz. Playlistteki şarkıların hepsi dinlendiği zaman algoritma sıfırlanır.
+**Kendiliğinden başlatma:** Kullanıcı isteğine bağlı( ki benim de önerimdir.) uygulama kendini arka planda başlatabilir ve bilgisayarı hiç yormaz, belki farkı hissetmeyebilirsiniz bile.
+**Tema özelleştirme:** Uygulama temasını baştan sona düzeltebilme imkanı sunuyoruz.

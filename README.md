@@ -26,6 +26,8 @@ You might have a point, but there are some shortcomings. 😅
 
 **Listening data collection:** Boomusic collects data such as how many minutes you listened to each song and how many times you listened to them. There’s no specific reason for this; if users are curious, they can view this information there.
 
+**Plugins:** With both official and community plugins, you can customize Boomusic to suit your needs.
+
 **Theme customization:** We offer the ability to fully customize the app’s theme.
 
 # TR - TÜRKÇE
@@ -53,4 +55,6 @@ Biraz haklı da sayılsanız eksikler var.😅
 
 **Tema özelleştirme:** Uygulama temasını baştan sona düzeltebilme imkanı sunuyoruz.
 
-**Dinleme verisi toplama:** Boomusic dinlediğiniz şarkıları kaç dakika ve kaç kere dinlediğiniz gibi verileri toplar. Belli bir sebebi yok, kullanıcı merak ederse oradan görebilir.
+**Dinleme verisi toplama:** Boomusic dinlediğiniz şarkıları kaç dakika ve kaç kere dinlediğiniz gibi verileri toplar. Belli bir sebebi yok, kullanıcı merak ederse oradan görebilir.,
+
+**Eklentiler:** Hem offical hemde topluluk pluginleri ile Boomusic'i kendi konforunuza göre kullanabilirsiniz.
